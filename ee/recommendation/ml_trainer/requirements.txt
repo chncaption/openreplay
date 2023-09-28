@@ -1,3 +1,5 @@
 argcomplete==3.0.8
-apache-airflow==2.6.1
+apache-airflow==2.7.1
 airflow-code-editor==7.2.1
+apache-airflow-providers-imap>=3.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+flask-appbuilder>=4.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
