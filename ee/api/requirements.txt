@@ -21,7 +21,7 @@ clickhouse-driver[lz4]==0.2.6
 #--no-binary is used to avoid libxml2 library version incompatibilities between xmlsec and lxml
 #python3-saml==1.15.0 --no-binary=lxml
 python3-saml==1.15.0
-python-multipart==0.0.6
+python-multipart==0.0.7
 
 redis==4.5.5
 #confluent-kafka==2.1.0
