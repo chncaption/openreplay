@@ -16,5 +16,5 @@ apscheduler==3.10.1
 
 clickhouse-driver==0.2.6
 clickhouse-driver[lz4]==0.2.6
-python-multipart==0.0.5
+python-multipart==0.0.7
 azure-storage-blob==12.16.0
