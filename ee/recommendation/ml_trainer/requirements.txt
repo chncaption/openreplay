@@ -1,3 +1,4 @@
 argcomplete==3.0.8
-apache-airflow==2.6.1
+apache-airflow==2.9.0b1
 airflow-code-editor==7.2.1
+apache-airflow-providers-ftp>=3.8.0rc2 # not directly required, pinned by Snyk to avoid a vulnerability
