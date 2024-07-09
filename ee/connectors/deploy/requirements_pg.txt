@@ -10,3 +10,4 @@ SQLAlchemy==1.4.43
 tzlocal==5.0.1
 urllib3==1.26.12
 PyYAML==6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
