@@ -1,5 +1,5 @@
-requests==2.31.0
-urllib3==1.26.16
+requests==2.32.2
+urllib3==1.26.19
 boto3==1.26.148
 pyjwt==2.7.0
 psycopg2-binary==2.9.6
@@ -8,8 +8,11 @@ jira==3.5.1
 
 
 
-fastapi==0.96.0
+fastapi==0.109.1
 uvicorn[standard]==0.22.0
 python-decouple==3.8
-pydantic[email]==1.10.8
+pydantic==1.10.13
 apscheduler==3.10.1
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
