@@ -39,7 +39,7 @@
     "jest-environment-jsdom": "^29.5.0",
     "jsbi": "^4.1.0",
     "jshint": "^2.11.1",
-    "jspdf": "^2.5.1",
+    "jspdf": "^2.5.2",
     "jsx-runtime": "^1.2.0",
     "luxon": "^1.24.1",
     "mobx": "^6.3.8",
