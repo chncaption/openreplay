@@ -8,6 +8,6 @@ SQLAlchemy==1.4.48
 tzlocal==5.0.1
 urllib3==1.26.15
 sqlalchemy-redshift==0.8.14
-redshift-connector==2.0.911
+redshift-connector==2.1.7
 pandas-redshift==2.0.5
 PyYAML==6.0
